@@ -6,9 +6,10 @@
 1. Download Xcode (The project can only be run by using a MacBook)
 2. Download the whole zip file from GitHub and extract it
 3. Open a terminal and go to the project directory
-4. Type in exp start
-5. Open a new tab on terminal and type in exp ios
-6. An iOS simulator will pop out and start building and running the project
+4. Type in npm install
+5. Type in exp start
+6. Open a new tab on terminal and type in exp ios
+7. An iOS simulator will pop out and start building and running the project
 
 ## Contact
 - Contact me via email(leep9@spu.edu) if the software does not work. 
